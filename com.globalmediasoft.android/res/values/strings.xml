@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">com.globalmediasoft.android</string>
+    <string name="gmscore_alert_title">Warning</string>
+    <string name="gmsDialogActions_title">Choose an action</string>
+    <string name="gmsDialogActions_submit">Next</string>
+    <string name="gmsDialogActions_cancel">Cancel</string>
+
+</resources>
